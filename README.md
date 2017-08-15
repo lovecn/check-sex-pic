@@ -17,4 +17,4 @@ Check the "Active" box and submit the form
 
 ```
 curl 自动更新
-curl -XPOST -H'content-type:application/json' 'https://packagist.org/api/update-package?username=lovecn&apiToken=API_TOKEN' -d'{"repository":{"url":"https://packagist.org/packages/lovecn/check-sex-pic"}}'
+`curl -XPOST -H'content-type:application/json' 'https://packagist.org/api/update-package?username=lovecn&apiToken=API_TOKEN' -d'{"repository":{"url":"https://packagist.org/packages/lovecn/check-sex-pic"}}'`
