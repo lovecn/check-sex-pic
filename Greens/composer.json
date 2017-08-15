@@ -1,0 +1,12 @@
+{
+    "name": "love/alipic",
+    "description": "xxx",
+    "authors": [{
+        "name": "zan",
+        "email": "mybestpartner@sina.com"
+    }],
+    "require": {},
+    "autoload": {
+        "psr-4": {"Greens\\": "./"}
+    }
+}
