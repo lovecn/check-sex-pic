@@ -1,8 +1,8 @@
 {
-    "name": "love/alipic",
-    "description": "xxx",
+    "name": "lovecn/check-sex-pic",
+    "description": "图片鉴黄",
     "authors": [{
-        "name": "zan",
+        "name": "lovecn",
         "email": "mybestpartner@sina.com"
     }],
     "require": {},
